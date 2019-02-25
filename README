@@ -1,4 +1,4 @@
-1.1 Python & SQL & Machine Learning Project
+Python & SQL & Machine Learning Project
 Use Decision Tree regression:
 1. Select 10 stocks as independent variables to predict stocks return for the left 2990 stocks
 2. Training sample should be at least 300 daily returns, and test sample at least 200 days.
